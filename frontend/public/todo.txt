@@ -1,0 +1,6 @@
+- cascade operations - crud for all models
+    changes done in category model create
+
+- quantity + - from cart
+- store cart data in mongoose
+- first store data in local storage - after sign in upload all cart data to database
